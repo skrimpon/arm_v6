@@ -1,0 +1,7 @@
+Running: xsim.dir/armv6_TB_behav/xsimk -simmode gui -wdb armv6_TB_behav.wdb -simrunnum 0 -socket 44352
+Design successfully loaded
+Design Loading Memory Usage: 124924 KB (Peak: 126312 KB)
+Design Loading CPU Usage: 50 ms
+Simulation completed
+Simulation Memory Usage: 199868 KB (Peak: 264196 KB)
+Simulation CPU Usage: 320 ms

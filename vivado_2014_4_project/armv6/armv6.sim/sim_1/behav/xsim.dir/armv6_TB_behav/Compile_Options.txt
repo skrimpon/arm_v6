@@ -1,0 +1,1 @@
+-wto "fb7bbf1f90634afebaba0275bbfe63b8" --debug "typical" --relax -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "armv6_TB_behav" "xil_defaultlib.armv6_TB" "xil_defaultlib.glbl" -log "elaborate.log" 

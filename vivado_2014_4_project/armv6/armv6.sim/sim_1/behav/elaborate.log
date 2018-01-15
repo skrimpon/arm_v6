@@ -1,0 +1,35 @@
+Vivado Simulator 2014.4
+Copyright 1986-1999, 2001-2014 Xilinx, Inc. All Rights Reserved.
+Running: /opt/Xilinx/Vivado/2014.4/bin/unwrapped/lnx64.o/xelab -wto fb7bbf1f90634afebaba0275bbfe63b8 --debug typical --relax -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot armv6_TB_behav xil_defaultlib.armv6_TB xil_defaultlib.glbl -log elaborate.log 
+Multi-threading is on. Using 14 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.control_unit
+Compiling module xil_defaultlib.register_file
+Compiling module xil_defaultlib.CLA_4bit
+Compiling module xil_defaultlib.CLA_16bit
+Compiling module xil_defaultlib.CLA_32bit
+Compiling module xil_defaultlib.hazzard_detection_unit
+Compiling module xil_defaultlib.MUX2x1
+Compiling module xil_defaultlib.barrel_shift_left
+Compiling module xil_defaultlib.barrel_shift_right_logical
+Compiling module xil_defaultlib.barrel_shift_right_arithmetical
+Compiling module xil_defaultlib.barrel_shift_right_cycle
+Compiling module xil_defaultlib.alu_data_path
+Compiling module xil_defaultlib.MCU
+Compiling module xil_defaultlib.FA
+Compiling module xil_defaultlib.HA
+Compiling module xil_defaultlib.CLA_64bit
+Compiling module xil_defaultlib.booth_multiplication
+Compiling module xil_defaultlib.mul_data_path
+Compiling module xil_defaultlib.CAS
+Compiling module xil_defaultlib.non_restoring_division
+Compiling module xil_defaultlib.div_data_path
+Compiling module xil_defaultlib.ls_data_path
+Compiling module xil_defaultlib.armv6
+Compiling module xil_defaultlib.armv6_TB
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot armv6_TB_behav

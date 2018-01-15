@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 16:47:07 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Thu Sep 24 14:00:52 2015
+# Process ID: 27561
+# Log file: /home/skrimpon/Documents/ce432/armv6/armv6.sim/sim_1/behav/webtalk.log
+# Journal file: /home/skrimpon/Documents/ce432/armv6/armv6.sim/sim_1/behav/webtalk.jou
+#-----------------------------------------------------------
+source /home/skrimpon/Documents/ce432/armv6/armv6.sim/sim_1/behav/xsim.dir/armv6_TB_behav/webtalk/xsim_webtalk.tcl -notrace
+
+    while executing
+"webtalk_transmit -clientid 3830894465 -regid "174166739_174166740_210572977_465" -xml /home/skrimpon/Documents/ce432/armv6/armv6.sim/sim_1/behav/xsim...."
+    (file "/home/skrimpon/Documents/ce432/armv6/armv6.sim/sim_1/behav/xsim.dir/armv6_TB_behav/webtalk/xsim_webtalk.tcl" line 41)
+INFO: [Common 17-206] Exiting Webtalk at Thu Sep 24 14:00:55 2015...
